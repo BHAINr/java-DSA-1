@@ -5,7 +5,7 @@ public class Bucker_sort {
         int B[];
         int n= a.length;
         for(int i=0;i<n;i++){
-            B[a[]];
+            B[a[i]];
          }
          for(int i=0;i<n-1;i++){
             System.out.println(B(floorSearch[n*a[]])
