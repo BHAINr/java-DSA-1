@@ -29,7 +29,8 @@ static void concure(int a[] , int first ,int mid, int last){
     
 }
 
-public static void divide(int a[] , int first  , int last){ 
+public static void divide(int a[] , int first  , int last)
+   { 
     if(first>=last){
         return;
 
